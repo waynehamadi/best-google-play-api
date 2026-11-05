@@ -1,0 +1,4 @@
+api,rank,provider,plan,overall_score,data_score,price_per_1000_usd,price_per_1000,date_tested,plan_page,best_page,sheet_api
+Google Play API,1,Zembra,top-up from $12,54.7,92,50.0,"$50.00 per 1,000 apps",2026-10-30,https://datacircle.dev/google-play-apis/zembra/top-up-from-12,https://datacircle.dev/best-google-play-api,Google Play app
+Google Play API,2,DataForSEO,"top-up from $50, Pay as you go",53.9,66,0.6,"$0.60 per 1,000 apps",2026-10-30,https://datacircle.dev/google-play-apis/dataforseo/top-up-from-50-pay-as-you-go-post-v3-app-data-google-app-info-task-post-setting-google-app-info-tasks-standard-queue,https://datacircle.dev/best-google-play-api,Google Play app
+Google Play API,3,Sonar,$29 monthly,48.8,34,0.967,"$0.967 per 1,000 apps",2026-10-30,https://datacircle.dev/google-play-apis/sonar/29-monthly,https://datacircle.dev/best-google-play-api,Google Play app
